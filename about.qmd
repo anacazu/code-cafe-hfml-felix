@@ -2,6 +2,4 @@
 title: about
 ---
 
-We are a programming cafe based in some university, part of a larger [network of programming cafes](https://github.com/code-cafes-nl).
-
-Join us by...
+We are a programming cafe based in HFML-FELIX (an NWO Insitute in Nijmegen). We follow the example of a larger [network of programming cafes](https://github.com/code-cafes-nl).
