@@ -1,0 +1,17 @@
+---
+title: content
+---
+
+# Session 0 - Intro and suggestions from participants
+
+Audience: researchers (PhD students and PIs) from both FELIX and HFML sides, IT and technical personnel 
+
+Discussion notes:
+- Topic suggestions: Git, get code checked by peers, electronic labbooks
+- Specific LabVIEW training would be useful
+
+Goal for next session: aim to make a GitLab subgroup per research group and upload existing code there
+
+# Session 1
+
+...
