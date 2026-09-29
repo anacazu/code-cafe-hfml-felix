@@ -1,17 +1,14 @@
 ## The item at the top will be displayed in the Next Event section
-- title: Everyday Git Part 2
-  description: Some <b>more</b> tips and tricks for using git.
-  location: Some remote location
-  presenter: Linus Torvalds
-  date:  2025-02-11
+- title: Session 1 - Hands-on intro on Git
+  description: Bring your code and upload it to a Git repository - You don't need prior software knowledge and no one will judge the quality of your code ;) 
+  location: TBD
+  presenter: Ana Caballo
+  date:  TBD
   time:  TBD
-  filename: example-event.ics
-  path: "https://eventbrite.com"
-- title: Everyday Git
-  description: Some tips and tricks for using git.
-  location: Some remote location
-  presenter: Linus Torvalds
-  date:  2025-02-10
-  time:  TBD
-  filename: example-event.ics
-  path: "https://eventbrite.com"
+- title: Intro session - Feedback from potential audience
+  description: Gather feedback to decide on CAFE topic
+  location: HFML 02.20
+  presenter: Ana Caballo
+  date:  2026-09-29
+  time:  11:30
+
