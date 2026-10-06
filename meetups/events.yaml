@@ -1,10 +1,16 @@
-## The item at the top will be displayed in the Next Event section
-- title: Session 1 - Hands-on intro on Git
-  description: Bring your code and upload it to a Git repository - You don't need prior software knowledge and no one will judge the quality of your code ;) 
+## The next events will be shown in home page at Next Event section
+- title: Session 2 - Electronic lab books (Mid-November)
+  description: Open discussion about lab books currently used in the insitute and some tips and tricks on the use of [Obsidian](https://obsidian.md/). Exact date and time TBD. 
   location: TBD
   presenter: Ana Caballo
-  date:  TBD
-  time:  TBD
+  date:  2026-11-01
+  time:  00:00
+- title: Session 1 - Hands-on intro on Git (Beginning November)
+  description: Bring your code and upload it to a Git repository - You don't need prior software knowledge and no one will judge the quality of your code ;). Exact date and time TBD.
+  location: TBD
+  presenter: Ana Caballo
+  date:  2026-11-01
+  time:  00:00
 - title: Intro session - Feedback from potential audience
   description: Gather feedback to decide on CAFE topic
   location: HFML 02.20

@@ -13,7 +13,7 @@ listing:
   id: next
   template: meetups/next-event.ejs
   contents: meetups/events.yaml
-  max-items: 1
+  max-items: 999
 ---
 
 ::: {#hero}
