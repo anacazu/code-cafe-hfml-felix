@@ -7,10 +7,12 @@ title: content
 Audience: researchers (PhD students and PIs) from both FELIX and HFML sides, IT and technical personnel 
 
 Discussion notes:
-- Topic suggestions: Git, get code checked by peers, electronic labbooks
+
+- Topic suggestions: Git, electronic labbooks, get code checked by peers,
+
 - Specific LabVIEW training would be useful
 
-Goal for next session: aim to make a GitLab subgroup per research group and upload existing code there
+Next goal: make a GitLab subgroup per research group and upload existing code there and start discussion on e-labbooks
 
 # Session 1
 
