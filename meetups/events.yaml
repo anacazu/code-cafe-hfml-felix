@@ -6,6 +6,13 @@
   date:  2026-09-29
   time:  11:30
 
+- title: Unofficial LabVIEW  session - Getting started
+  description: How to face a LabVIEW program written by someone else when you have no previous LabVIEW experience. Where to start and some tips and tricks. I'll be using a real example of a program written by a former FELIX researcher. The lab is a small space, so please confirm if you're joining here: https://forms.gle/eFcAfSrCdvM2j4Ty6. 
+  location: HFML-FELIX (FELIX labs, Floor -1, down the spiral staircase)
+  presenter: Ana Caballo
+  date:  2026-10-29
+  time:  15:00
+
 - title: Session 1 - Hands-on intro on Git 
   description: Bring your code and upload it to a Git repository - You don't need prior software knowledge and no one will judge the quality of your code ;). 
   location: HFML-FELIX (room TBD)
