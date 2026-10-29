@@ -14,6 +14,8 @@ Discussion notes:
 
 Next goal: make a GitLab subgroup per research group and upload existing code there and start discussion on e-labbooks
 
-# Session 1
+# Session 1 - Unofficial LabVIEW session, getting started
+
+I've put together some tips and tricks on how to get started with LabVIEW, and added feedback and questions from researchers. You can download it here <a href="assets/docs/LabVIEW Survival Checklist.pdf" target="_blank">LabVIEW Survival Checklist</a>
 
 ...
